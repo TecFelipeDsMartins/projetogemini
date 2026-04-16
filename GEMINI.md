@@ -8,6 +8,7 @@ This is a minimal base Next.js application designed as a starting point for furt
 - **Language**: TypeScript
 - **Styling**: Vanilla CSS / CSS Modules
 - **Directory Structure**: `src/` directory pattern
+- **Repository**: [https://github.com/TecFelipeDsMartins/projetogemini.git](https://github.com/TecFelipeDsMartins/projetogemini.git)
 
 ## Building and Running
 - **Development**: `npm run dev`
@@ -24,6 +25,7 @@ This is a minimal base Next.js application designed as a starting point for furt
 - **Components**: Create reusable components in a `src/components/` directory (to be created as needed).
 - **Styling**: Use CSS Modules (`*.module.css`) for component-specific styles.
 - **Strict Types**: Maintain TypeScript strict mode for better code quality.
+- **Git Flow**: All changes should be committed with clear, descriptive messages and pushed to the `main` branch.
 
 ## Usage
 1. Install dependencies (if not already done): `npm install`
